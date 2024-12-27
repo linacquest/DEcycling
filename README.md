@@ -1,3 +1,5 @@
+![DEcycling Framework](logo2.png)
+
 # Overview
 Welcome to the DEcycling Framework Repository, an initiative designed to address the intricate balance between ecological sustainability and public health priorities in food packaging. This repository presents methodologies for systematically evaluating recycled materials through a comprehensive scoring system (0-10), helping stakeholders make informed, evidence-based decisions.
 The framework, underpinned by rigorous scientific research, aims to transform sustainability practices in food packaging. An associated article is currently under review at The Lancet. We invite you to stay tuned for further developments.
