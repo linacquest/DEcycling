@@ -21,4 +21,4 @@ We welcome collaborators from academia, industry, and policymaking to contribute
 - Tools or extensions that enhance framework accessibility.
 
 # License:
-This project is licensed under the Apache License 2.0, ensuring that the framework remains open and accessible while preserving proper accreditation for contributors.
+This project is licensed under the [Apache License 2.0](https://github.com/linacquest/DEcycling/blob/main/LICENSE), ensuring that the framework remains open and accessible while preserving proper accreditation for contributors.
