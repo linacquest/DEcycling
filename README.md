@@ -15,11 +15,10 @@ The framework, underpinned by rigorous scientific research, aims to transform su
 - Empirical Evidence: Detailed, data-driven case studies highlighting real-world applications of the framework.
 
 # Contributing:
-We welcome collaborators from academia, industry, and policymaking to contribute to and expand this initiative. Contributions may include:
+We welcome collaborators from academia, industry, and policymaking to contribute to and expand this initiative. Please contact mherrador@ujaen.es for your contributions, these may include:
 - New case studies or regional datasets.
 - Refinements to the scoring system methodology.
 - Tools or extensions that enhance framework accessibility.
-Please contact mherrador@ujaen.es for your contributions.
 
 # License:
 This project is licensed under the Apache License 2.0, ensuring that the framework remains open and accessible while preserving proper accreditation for contributors.
